@@ -5,7 +5,7 @@
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/gtfs_static_data" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.13 (cff-discord-bot)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.11 (cff-discord-bot)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
